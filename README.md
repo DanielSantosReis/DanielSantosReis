@@ -1,10 +1,8 @@
-Hello! I'm Daniel Reis 👋
+Olá, meu nome é Daniel Reis
 
-- 🌱 I’m currently learning development full-stack!
-- 🤔 I’m looking for help with work.
-- 📫 How to reach me: kr.danielreis@gmail.com
-- 😄 Pronouns: (Ele/Dele - He/His)
-
+- 🌱 Development full-stack, em ascensão!
+- 📫 kr.danielreis@gmail.com
+ 
 <div align="center">
   <a href="https://github.com/DanielSantosReis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielSantosReis&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
@@ -20,9 +18,6 @@ Hello! I'm Daniel Reis 👋
   <img align="center" alt="dani-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="dani-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="dani-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  
-  <a href="https://picasion.com/"><img align="right" style="border-radius:50px;" src="https://i.picasion.com/pic92/02de5234880b7c746966509db6fc457b.gif" 
-  height="150" alt="gif" /></a>
 </div>
   
   ##
