@@ -1,6 +1,5 @@
 Olá, meu nome é Daniel Reis
 
-- 🌱 Development full-stack, em ascensão!
 - 📫 kr.danielreis@gmail.com
  
 <div align="center">
