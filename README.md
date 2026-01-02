@@ -1,13 +1,7 @@
 Olá, meu nome é Daniel Reis
 
 - 📫 kr.danielreis@gmail.com
- 
-<div align="center">
-  <a href="https://github.com/DanielSantosReis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielSantosReis&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSantosReis&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
-
+- 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
